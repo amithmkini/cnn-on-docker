@@ -19,6 +19,8 @@
 		"ms-python.python",
 	],
 
+	"initializeCommand": ["xhost", "+local:docker"],
+
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
