@@ -17,7 +17,7 @@ mkl-random==1.1.1
 mkl-service==2.3.0
 numpy==1.18.1
 olefile==0.46
-Pillow==7.1.2
+Pillow==8.1.1
 pycosat==0.6.3
 pycparser==2.20
 pylint==2.5.2
